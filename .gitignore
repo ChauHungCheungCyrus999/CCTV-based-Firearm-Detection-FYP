@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+node_modules/
+dist/
+backend/models/*.pt
+backend/.ultralytics/
+.DS_Store
+captures/*
+!captures/.gitkeep
+video_jobs/
+CS4514 Interim Report*.pdf
